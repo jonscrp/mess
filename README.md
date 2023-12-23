@@ -8,7 +8,11 @@ I am currently using Azure sql service as my database/server
 
 ## Things that I have learned so far..
 
- -The M.V.C pattern
- - Azure services
+- The M.V.C pattern
+- Azure services
+- URL matching
+- Python Enviroments
+- Django Templates
+
 
 
