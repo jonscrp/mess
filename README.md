@@ -11,8 +11,15 @@ I am currently using Azure sql service as my database/server
 - The M.V.C pattern
 - Azure services
 - URL matching
-- Python Enviroments
+- VirtualEnviroment
 - Django Templates
+- Django Generic Views 
+- Sessions: Django's mechanism to keep track of state betweem a site and a client 
 
+
+PIP modules
+
+dotenv
+channels[daphne]
 
 

@@ -1,2 +1,5 @@
 .env
 env/
+mysite/polls/
+mysite/mysite/__pycache__
+mysite/sillyme/__pycache__
