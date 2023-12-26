@@ -20,7 +20,7 @@ I am currently using Azure sql service as my database/server
 - [Channels](https://channels.readthedocs.io/en/1.x/concepts.html)
 
 
-![Channels Concept Diagram](/mess/mysite/sillyme/Diagram.jpg)
+![Channels Concept Diagram](mysite/sillyme/Diagram.jpg)
 
 
 PIP modules
